@@ -15,7 +15,7 @@ Collection of various cyber security resources meant to aid members of the QMtec
 ## Online courses <a name="paragraph1"></a>
 - [Cybrary.it](https://cybrary.it/) is a good one especially the [Security+](https://www.cybrary.it/course/comptia-security-plus/) and [Advanced Penetration Testing](https://www.cybrary.it/course/advanced-penetration-testing/) courses. You can also find a lot shorter courses that cover the basics of cyber security. 
 - [ImmersiveLabs](https://dca.immersivelabs.online/) is a web-based training platform that has both theoretical and practical labs. In my opinion it's a great place to 'get your feet wet' and get a glimpse of security. Remember to register with your uni email to get free access. 
-- [O'Reilley](https://learning.oreilly.com/home/) is another great source where you can find a lot of books and courses on security. You can register with your university email to get free access [here](https://www.safaribooksonline.com/library/view/temporary-access/?orpq).
+- [O'Reilly](https://learning.oreilly.com/home/) is another great source where you can find a lot of books and courses on security. You can register with your university email to get free access [here](https://www.safaribooksonline.com/library/view/temporary-access/?orpq).
 - [MalwareUnicorn reverse engineering workshops](https://malwareunicorn.org/#/) is a website that allows you to learn reverse engineering. This is more advanced, so I wouldn't start out with this one. 
 
 ## Practical learning <a name="practical"></a>
