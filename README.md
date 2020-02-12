@@ -6,7 +6,7 @@ Collection of various cyber security resources meant to aid members of the QMtec
 - [Practical learning](#practical)
 - [Podcasts](#podcasts)
 - [Books](#books)
-- [Other learning resources](#other)
+- [News & Other learning resources](#other)
 - [Tools](#tools)
 - [Other](#random)
 
@@ -39,17 +39,18 @@ Since we all commute and spend (waste) a lot of time doing so, a great way to le
 - [Internet Storm Center Stormcast](https://isc.sans.edu/podcast.html) [[Spotify](https://open.spotify.com/show/4orGHEysjCAWvGEbHzeL9A?si=fzPpIVvwTWKR0UwWwWe4yA)] is a short (under 10 minute) daily news source.
 - [Smashing Security](https://www.smashingsecurity.com/) [[Spotify](https://open.spotify.com/show/3J7pBxEu43nCnRTSXaan8S?si=vB6VrBNMQrKfH6pyiedZog)] is a more relaxed, fun podcast that takes all the essential information from the past week and presents it in a less-serious fashion. 
 
-## Books <a name="books"></a>
-- [Security+ Course Book](https://www.amazon.co.uk/CompTIA-Security-Get-Certified-Ahead/dp/1939136059/) is a great book covering all basic concepts in cybersec. It is meant to prepare you for the [CompTia Security+ certification](https://www.comptia.org/certifications/security) (which I recommend), but can also be used as a general learning resource. 
-- [Sandworm by Andy Greenberg](https://www.amazon.co.uk/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405/) is a very recent book covering one of the most dangerous APT groups in the world. While it focuses heavily on the geo-political aspect of their operation, I still think it's a good read if you're serious about security. 
-- [RTFM (Red Team Field Manual)](https://www.amazon.co.uk/Rtfm-Red-Team-Field-Manual/dp/1494295504/) is not a 'normal' book but rather (an incredibly useful) manual of the most essential offensive security commands. 
-
-## Other learning resources <a name="other"></a>
-- [This security news aggregator](https://security.didici.cc/news) is here you will find all the latest news from numerous websites. You can also use apps such as [Feedly](https://feedly.com/) to make your own news feed that you can scroll through every morning. 
+## News & Other learning resources <a name="other"></a>
+- We recommend using apps such as [Feedly](https://feedly.com/) to make your own news feed that you can scroll through every morning. You can also use the official [QM Tech News Feed](QMtechNewsFeed.opml) that you can import into Feedly. 
+- [This security news aggregator](https://security.didici.cc/news) is here you will find all the latest news from numerous websites. 
 - [This tweeter list](https://twitter.com/Zloool/lists/g-hackers) is also a good place to find news from the offensive security world, though I would recommend using it as a starting point in your twitter journey and not the sole information source. 
 - You can also find a lot of great articles and stories related to security [Medium](https://medium.com). I recommend setting up an account and turning on the 'Daily Digest' feature that will send you a list of curated stories (related to your chosen topics) every morning. 
 - YouTube channels featuring talks from conferences such as [DEFCON](https://www.youtube.com/user/DEFCONConference) or [BlackHat](https://www.youtube.com/user/BlackHatOfficialYT) also have a lot of good content. 
 - If you want to learn about TTP's (tactics, techniques and procedures) that modern adversaries are using check out the [MITRE ATT&CK framework](https://attack.mitre.org/)
+
+## Books <a name="books"></a>
+- [Security+ Course Book](https://www.amazon.co.uk/CompTIA-Security-Get-Certified-Ahead/dp/1939136059/) is a great book covering all basic concepts in cybersec. It is meant to prepare you for the [CompTia Security+ certification](https://www.comptia.org/certifications/security) (which I recommend), but can also be used as a general learning resource. 
+- [Sandworm by Andy Greenberg](https://www.amazon.co.uk/Sandworm-Cyberwar-Kremlins-Dangerous-Hackers/dp/0385544405/) is a very recent book covering one of the most dangerous APT groups in the world. While it focuses heavily on the geo-political aspect of their operation, I still think it's a good read if you're serious about security. 
+- [RTFM (Red Team Field Manual)](https://www.amazon.co.uk/Rtfm-Red-Team-Field-Manual/dp/1494295504/) is not a 'normal' book but rather (an incredibly useful) manual of the most essential offensive security commands. 
 
 ## Tools <a name="tools"></a>
 - I covered the most essential tools during my 'Hacking Tools of Trade' presentation. You can find the slides (with all the links) in the WhatsApp chat. 
